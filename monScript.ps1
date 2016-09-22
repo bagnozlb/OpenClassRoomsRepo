@@ -1,1 +1,2 @@
-Write-Host "Hello world !"
+$text = "Hello world !"
+Write-Host $text

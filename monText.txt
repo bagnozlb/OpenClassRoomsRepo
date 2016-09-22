@@ -1,1 +1,3 @@
 Des petits mots pour se remémorer l'usage de Vim.
+On soupçonne peu la puissance d'un outil aussi peu ergonomique.
+C'est le meilleur moyen pou réapprendre tous ses raccourcis claviers ;)
